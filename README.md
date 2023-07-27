@@ -24,3 +24,6 @@ This academic project is a Java program that calculates the rewards for its pass
 <h3>File Input:</h3>
 
 - The program will input passenger and flight data, in chronological order, from a file called 'flight-data.txt'
+
+<h1>Demo ✨</h1>
+<img src="/Airlines_Project_Screenshot.png" alt="Airlines Project Screenshot">
